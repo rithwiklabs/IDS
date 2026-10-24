@@ -1,5 +1,8 @@
+# Complied executable
 a.out
+ids
+
+#Generated log files
 auth.log
 log.txt
 alert.txt
-ids
